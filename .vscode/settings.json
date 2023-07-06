@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "limits": "c",
+        "memory": "c",
+        "atomic": "c",
+        "bit": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "type_traits": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "item.h": "c",
+        "func.h": "c",
+        "freertos.h": "c",
+        "core_cm3.h": "c",
+        "iosfwd": "c",
+        "task.h": "c",
+        "stdio.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
